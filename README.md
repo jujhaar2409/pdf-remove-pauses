@@ -2,6 +2,9 @@
 
 Place your pdf files in the `pdfs` directory.
 
-run `python3 remove_pauses.py`
+run 
+
+* `./remove_pauses.sh` (on linux / mac)
+* `.\remove_pauses_win.ps1` (on windows)
 
 The output will be stored in the directory `out`.
